@@ -38,6 +38,7 @@ A curated list of powerful **free tools for developers** — coding, design, API
 - CodePen – Frontend playground
 - JSFiddle – JavaScript testing
 - StackBlitz – Online dev environment
+- [NextReset](https://nextreset.ai/) – Codex reset-history and official AI-service incident reference
 
 ---
 
