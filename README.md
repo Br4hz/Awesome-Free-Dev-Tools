@@ -10,6 +10,7 @@ A curated list of powerful **free tools for developers** — coding, design, API
 - ChatGPT – AI assistant for coding & writing
 - Claude – Long-context AI for reasoning
 - Gemini – AI for research and coding
+- [QuietTake Noise Remover](https://noiseremover.site/) – Free browser-local RNNoise speech noise reduction with original/cleaned playback and 48 kHz 16-bit WAV export; no signup or audio upload, limited to 50 MB and five minutes per file.
 
 ---
 
