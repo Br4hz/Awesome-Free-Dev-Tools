@@ -24,6 +24,7 @@ A curated list of powerful **free tools for developers** — coding, design, API
 - Postman – API testing tool
 - Insomnia – REST & GraphQL testing
 - Hoppscotch – Open-source API tester
+- [BestJSON](https://bestjson.com/) – Format, validate, repair and compare JSON API responses locally in the browser
 
 ---
 
